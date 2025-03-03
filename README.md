@@ -1,3 +1,3 @@
-# Kickstart a FusionAuth instance with a custom theme 
+# MOVED
 
-Kickstart configurations to startup a FusionAuth instance with a custom dark theme
+This repository has been moved into the `fusionauth-example-kickstart` repository. It is under the `fusionauth/theme-css-only` directory.
